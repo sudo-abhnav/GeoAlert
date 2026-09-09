@@ -1,3 +1,3 @@
-It uses the principles of TinyML along with TensorFlow Lite Micro for inferring ai models on esp 32.
+It uses the principles of [TinyML](./TinyML) along with TensorFlow Lite Micro for inferring ai models on esp 32.
 
 TinyML explains how ai models are run on esp 32
