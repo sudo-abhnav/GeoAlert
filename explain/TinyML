@@ -1,0 +1,9 @@
+Field of AI which is used to run AI models on small microcontrollers (like esp 32)
+
+A tiny ml model which can run locally without an internet connection, at a smaller scale, working with data on the scale of KBs.
+
+ESP 32 has around 512kB and 4MB of memory. TinyML, along with TensorFlow Lite Micro
+
+The process of Quantization is used, which converts 32-bit floating points to 8-bit integers, essentially reducing significant usage of memory and storage.
+
+Model Pruning, which removes unnecessary neural networks, which again, reduces memory usage
